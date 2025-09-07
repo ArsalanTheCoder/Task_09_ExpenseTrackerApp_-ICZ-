@@ -6,7 +6,6 @@ It uses **Provider** for state management and stores data **locally**.
 
 ---
 
-
 ## 🚀 Features  
 - ➕ Add new expenses with a **title, amount, category, and date**  
 - ✏️ Edit or update existing expenses  
