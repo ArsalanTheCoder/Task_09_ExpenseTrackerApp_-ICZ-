@@ -1,17 +1,42 @@
-# Task_09_ExpenseTrackerApp_-ICZ-
-Expense Tracker App
-Overview
-This is a simple Expense Tracker App developed using Flutter. The app allows users to manage their personal expenses, categorize them, and visualize their spending over time. Users can add, edit, and delete expenses while selecting the category of the expense. It uses Provider for state management and stores data locally.
+# 💰 Task_09_ExpenseTrackerApp_-ICZ-  
 
-Features
-Add new expenses with a title, amount, category, and date.
-Edit or update existing expenses.
-View a list of expenses with details such as title, amount, and date.
-Filter expenses by month.
-Data is stored locally in memory (no external databases).
+A simple **Expense Tracker App** developed using **Flutter**.  
+The app allows users to manage their personal expenses, categorize them, and visualize spending over time.  
+It uses **Provider** for state management and stores data **locally**.  
 
-How to Use
-On launching the app, you'll be presented with the home screen.
-You can add an expense by clicking the + button.
-To edit an existing expense, long press on the expense item in the list.
-Expenses can be filtered by month.
+---
+
+## 🚀 Features  
+- ➕ Add new expenses with a **title, amount, category, and date**  
+- ✏️ Edit or update existing expenses  
+- 🗑️ Delete expenses when needed  
+- 📋 View a detailed list of expenses (title, amount, date)  
+- 🔍 Filter expenses by **month**  
+- 💾 Local data storage (no external databases required)  
+
+---
+
+## 🛠️ Tech Stack  
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **State Management:** Provider  
+- **Storage:** Local (in-memory)  
+
+---
+
+## 🏁 How to Use  
+1. ▶️ Launch the app → Home screen appears  
+2. ➕ Tap the **+ button** to add a new expense  
+3. ✏️ Long press an expense item to **edit or delete**  
+4. 📅 Filter expenses by month to see specific data  
+
+---
+
+## 📚 Resources  
+- [Flutter Documentation](https://docs.flutter.dev/)  
+- [Dart Language Guide](https://dart.dev/guides)  
+- [Flutter Cookbook](https://docs.flutter.dev/cookbook)  
+
+---
+
+✨ Stay on top of your finances with **Expense Tracker App -ICZ-**! 📊💸  
