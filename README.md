@@ -4,7 +4,7 @@ A simple **Expense Tracker App** developed using **Flutter**.
 The app allows users to manage their personal expenses, categorize them, and visualize spending over time.  
 It uses **Provider** for state management and stores data **locally**.  
 
---
+---
 
 ## 🚀 Features  
 - ➕ Add new expenses with a **title, amount, category, and date**  
